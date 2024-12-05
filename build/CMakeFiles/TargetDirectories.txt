@@ -1,0 +1,3 @@
+/home/alec/dev/c++/learning-opengl/build/CMakeFiles/learning_opengl.dir
+/home/alec/dev/c++/learning-opengl/build/CMakeFiles/edit_cache.dir
+/home/alec/dev/c++/learning-opengl/build/CMakeFiles/rebuild_cache.dir
